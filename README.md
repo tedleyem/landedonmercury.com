@@ -2,7 +2,7 @@
 
 [Web Link](https://landedonmercury.com)
 
-[Github link]()
+[Github link](https://tedleyem.github.io/landedonmercury.com/)
 
 ## Built With
 
