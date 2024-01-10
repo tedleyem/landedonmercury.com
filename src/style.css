@@ -2,7 +2,7 @@ html {
   --section-background-color: linear-gradient(
     to bottom left,
     rgba(17, 16, 16, 0.582),
-    rgba(60, 22, 175, 0.904)
+    rgba(17, 16, 16, 0.582)
   );
 
   --image-gradient: linear-gradient(
@@ -63,13 +63,13 @@ button:focus {
 
 /* Handle */
 ::-webkit-scrollbar-thumb {
-  background: rgba(178, 121, 216, 0.959);
+  background: #1b1a2ea9;
   border-radius: 12px;
 }
 
 /* Handle on hover */
 ::-webkit-scrollbar-thumb:hover {
-  background: rgba(222, 130, 235, 0.911);
+  background: #1b1a2ea9;
   border-radius: 12px;
 }
 
@@ -298,7 +298,7 @@ button:focus {
 }
 .Typewriter__cursor {
   font-size: 2.4em !important;
-  color: #b562d6 !important;
+  color: #A30000 !important;
 }
 
 @media (max-width: 767px) {
