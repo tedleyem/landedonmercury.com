@@ -12,7 +12,7 @@ function Home2() {
              <span className="red"> Kenny Mercury </span>
             </h1>
             <p className="home-about-body">
-              Kendall Meralus, our beloved friend passed away on April 12th, 2020 due to complications with diabetes and the COVID-19 virus
+              Kendall Meralus, our beloved friend passed away on April 11th, 2020 due to complications with diabetes and the COVID-19 virus
               that plagued the world. His twin brother, has decided to build a website upon his request to remove his social media accounts
               when he expires. In his honor this site is dedicated to share his life through his work and pictures.
               Kenny's life was the perfect combination of a wise old soul, brilliant technical mind, and lover of story telling, horror movies,
